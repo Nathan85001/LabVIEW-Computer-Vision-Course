@@ -16,7 +16,7 @@ Description: This Session covers some geometeric transformations for images.
 
 <br/>
 
-![](media/Ex1ImageImport.gif)
+![](media/Ex1%20Image%20Import.gif)
 
 <br/>
 
