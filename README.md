@@ -16,11 +16,11 @@ Description: This Session covers some geometeric transforms for images.
 
 <br/>
 
-![] (./media/Ex1 Image Import.mp4)
+![] (media/Ex1 Image Import.mp4)
 
 <br/>
 
-![] (./media/Ex2 Geometeric Transform.mp4)
+![] (media/Ex2 Geometeric Transform.mp4)
 
 <!-- *Video:* [Watch Video](./media/Ex1 Image Import.mp4)
 *Video:* [Watch Video](./media/Ex2 Geometeric Transform.mp4) -->
