@@ -12,7 +12,7 @@ Welcome to the LabVIEW Computer Vision Course repository! This repository contai
 ## Session 1: Image and Geometeric Transformation
 [Link to Session 1 Folder](./Session1)  
 Description: This Session covers some geometeric transforms for images.  
-*Slides:* [PDF](./Session1/Session 1.pdf) | [PowerPoint](./Session1/Session 1.pptx)  
+*Slides:* [PDF](./Session1/Session1.pdf) | [PowerPoint](./Session1/Session1.pptx)  
 *Video:* [Watch Video](./media/Ex1 Image Import.mp4)
 *Video:* [Watch Video](./media/Ex2 Geometeric Transform.mp4)
 
@@ -20,14 +20,14 @@ Description: This Session covers some geometeric transforms for images.
 ## Session 2: Image Format
 [Link to Session 2 Folder](./Session2)  
 Description: This Session dives into fundamental image formating.  
-*Slides:* [PDF](./Session2/Session 2.pdf) | [PowerPoint](./Session2/Session 2.ppsx)  
+*Slides:* [PDF](Session2/Session2.pdf) | [PowerPoint](Session2/Session2.ppsx)
 *Video:* [Watch Video](./media/Ex3 RGB Image.mp4)
 *Video:* [Watch Video](./media/Ex4 Grayscalling.mp4)
 
 ## Session 3: Image Threshold
 [Link to Session 3 Folder](./Session3)  
 Description: This session explain thresholding and color thresholding and their usage of object tracking.  
-*Slides:* [PDF](./Session3/Session 3.pdf) | [PowerPoint](./Session3/Session 3.pptx)  
+*Slides:* [PDF](./Session3/Session3.pdf) | [PowerPoint](./Session3/Session3.pptx)  
 *Video:* [Watch Video](./media/Ex5 Threshold.mp4)
 *Video:* [Watch Video](./media/Ex6 Color Threshold.mp4)
 
