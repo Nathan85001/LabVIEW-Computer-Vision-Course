@@ -20,7 +20,7 @@ Description: This Session covers some geometeric transformations for images.
 
 <br/>
 
-![] (media/Ex2%20Geometeric%20Transformation.gif)
+![](media/Ex2%20Geometeric%20Transformation.gif)
 
 <!-- *Video:* [Watch Video](./media/Ex1 Image Import.mp4)
 *Video:* [Watch Video](./media/Ex2 Geometeric Transform.mp4) -->
