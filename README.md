@@ -14,7 +14,7 @@ Welcome to the LabVIEW Computer Vision Course repository! This repository contai
 Description: This Session covers some geometeric transformations for images.  
 *Slides:* [PDF](./Session1/Session1.pdf) | [PowerPoint](./Session1/Session1.pptx)  
 
-<br/>
+<!-- <br/> -->
 
 ![Ex1](media/Ex1%20Image%20Import.gif)
 
