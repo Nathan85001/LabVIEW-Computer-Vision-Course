@@ -33,15 +33,29 @@ Description: This Session covers some geometeric transformations for images.
 [Link to Session 2 Folder](./Session2)  
 Description: This Session dives into fundamental image formating.  
 *Slides:* [PDF](Session2/Session2.pdf) | [PowerPoint](Session2/Session2.ppsx)
-*Video:* [Watch Video](./media/Ex3 RGB Image.mp4)
-*Video:* [Watch Video](./media/Ex4 Grayscalling.mp4)
+<br/>
+
+![](media/Ex3.gif)
+
+<br/>
+
+![](media/Ex4.gif)
+
+<br/>
 
 ## Session 3: Image Threshold
 [Link to Session 3 Folder](./Session3)  
 Description: This session explain thresholding and color thresholding and their usage of object tracking.  
 *Slides:* [PDF](./Session3/Session3.pdf) | [PowerPoint](./Session3/Session3.pptx)  
-*Video:* [Watch Video](./media/Ex5 Threshold.mp4)
-*Video:* [Watch Video](./media/Ex6 Color Threshold.mp4)
+<br/>
+
+![](media/Ex5.gif)
+
+<br/>
+
+![](media/Ex6.gif)
+
+<br/>
 
 <!-- 
 ## Final Project: Real-Time Object Tracking
