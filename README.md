@@ -11,16 +11,16 @@ Welcome to the LabVIEW Computer Vision Course repository! This repository contai
 
 ## Session 1: Image and Geometeric Transformation
 [Link to Session 1 Folder](./Session1)  
-Description: This Session covers some geometeric transforms for images.  
+Description: This Session covers some geometeric transformations for images.  
 *Slides:* [PDF](./Session1/Session1.pdf) | [PowerPoint](./Session1/Session1.pptx)  
 
 <br/>
 
-![] (media/Ex1 Image Import.mp4)
+![] (media/Ex1 Image Import.gif)
 
 <br/>
 
-![] (media/Ex2 Geometeric Transform.mp4)
+![] (media/Ex2 Geometeric Transformation.gif)
 
 <!-- *Video:* [Watch Video](./media/Ex1 Image Import.mp4)
 *Video:* [Watch Video](./media/Ex2 Geometeric Transform.mp4) -->
