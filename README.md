@@ -7,6 +7,7 @@ Welcome to the LabVIEW Computer Vision Course repository! This repository contai
 - [Session 1: Image and Geometeric Transformation](#Session-1-image-and-geometeric-transformation)
 - [Session 2: Image Format](#Session-2-image-format)
 - [Session 3: Image Threshold](#Session-3-image-threshold)
+- [Session 4: Blurring Filters](#Session-4-blurring-filters)
 <!-- - [Final Project: Real-Time Object Tracking](#final-project-real-time-object-tracking) -->
 
 ## Session 1: Image and Geometeric Transformation
@@ -56,6 +57,17 @@ Description: This session explain thresholding and color thresholding and their 
 ![](media/Ex6.gif)
 
 <br/>
+
+## Session 4: Blurring Filters
+[Link to Session 4 Folder](./Session4)  
+Description: This session explain blurrig filters in their role in noise reduction.  
+*Slides:* [PDF](./Session4/Session4.pdf) | [PowerPoint](./Session4/Session4.pptx)  
+<br/>
+
+![](media/Ex7.gif)
+
+<br/>
+
 
 <!-- 
 ## Final Project: Real-Time Object Tracking
