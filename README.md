@@ -2,12 +2,15 @@
 
 Welcome to the LabVIEW Computer Vision Course repository! This repository contains all the resources and materials for the course, including slides, examples, and a final project.
 
+Note: Powerpoint shows are preferred, because there are animations help for understanding.
+
 ## Table of Contents
 
 - [Session 1: Image and Geometeric Transformation](#Session-1-image-and-geometeric-transformation)
 - [Session 2: Image Format](#Session-2-image-format)
 - [Session 3: Image Threshold](#Session-3-image-threshold)
 - [Session 4: Blurring Filters](#Session-4-blurring-filters)
+- [Session 5: Morphological Operations](#Session-5-morphological-operations)
 <!-- - [Final Project: Real-Time Object Tracking](#final-project-real-time-object-tracking) -->
 
 ## Session 1: Image and Geometeric Transformation
@@ -65,6 +68,16 @@ Description: This session explain blurrig filters in their role in noise reducti
 <br/>
 
 ![](media/Ex7.gif)
+
+<br/>
+
+## Session 5: Morphological Operations
+[Link to Session 5 Folder](./Session5)  
+Description: This session explain Morphological Operations, specially dialtion and erosion ,and their role in enhance detected objects and denoise them.  
+*Slides:* [PDF](./Session5/Session5.pdf) | [PowerPoint](./Session5/Session5.pptx)  
+<br/>
+
+![](media/Ex8.gif)
 
 <br/>
 
