@@ -11,6 +11,8 @@ Note: Powerpoint shows are preferred, because there are animations help for unde
 - [Session 3: Image Threshold](#Session-3-image-threshold)
 - [Session 4: Blurring Filters](#Session-4-blurring-filters)
 - [Session 5: Morphological Operations](#Session-5-morphological-operations)
+- [Session 6: Implementing Techniques](#Session-6-implementing-techniques)
+
 <!-- - [Final Project: Real-Time Object Tracking](#final-project-real-time-object-tracking) -->
 
 ## Session 1: Image and Geometeric Transformation
@@ -78,6 +80,24 @@ Description: This session explain Morphological Operations, specially dialtion a
 <br/>
 
 ![](media/Ex8.gif)
+
+<br/>
+
+## Session 6: Implementing Techniques
+[Link to Session 5 Folder](./Session5)  
+Description: This session explain Fast Fourier Transform as implementation for blurring filters. Also its contains opening and closing operations as implementation for dilation and erosion.   
+*Slides:* [PDF](./Session6/Session6.pdf) | [PowerPoint](./Session6/Session6.pptx)  
+<br/>
+
+![](media/Ex9.gif)
+
+<br/>
+
+![](media/Ex10.gif)
+
+<br/>
+
+![](media/Ex8-1.gif)
 
 <br/>
 
