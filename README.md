@@ -12,6 +12,8 @@ Note: Powerpoint shows are preferred, because there are animations help for unde
 - [Session 4: Blurring Filters](#Session-4-blurring-filters)
 - [Session 5: Morphological Operations](#Session-5-morphological-operations)
 - [Session 6: Implementing Techniques](#Session-6-implementing-techniques)
+- [Session 7: Real-time Camera](#Session-7-real-time-camera)
+
 
 <!-- - [Final Project: Real-Time Object Tracking](#final-project-real-time-object-tracking) -->
 
@@ -84,7 +86,7 @@ Description: This session explain Morphological Operations, specially dialtion a
 <br/>
 
 ## Session 6: Implementing Techniques
-[Link to Session 5 Folder](./Session5)  
+[Link to Session 6 Folder](./Session6)  
 Description: This session explain Fast Fourier Transform as implementation for blurring filters. Also its contains opening and closing operations as implementation for dilation and erosion.   
 *Slides:* [PDF](./Session6/Session6.pdf) | [PowerPoint](./Session6/Session6.pptx)  
 <br/>
@@ -98,6 +100,18 @@ Description: This session explain Fast Fourier Transform as implementation for b
 <br/>
 
 ![](media/Ex8-1.gif)
+
+<br/>
+
+## Session 7: Real-time Camera
+[Link to Session 7 Folder](./Session7)  
+Description: This session focuses on debugging camera stream issues using a wired camera and provides a practical solution for integrating wireless IP cameras—such as the TP-Link Tapo C100—into LabVIEW. Since LabVIEW only supports direct image acquisition from wired cameras, we demonstrate how to use virtual camera tools to redirect wireless streams into LabVIEW, enabling real-time vision for robotics and autonomous systems.
+
+NOTE: Download the presentation version, because it has explaination with videos whichh is necescary for understanding.  
+*Slides:* [PDF](./Session7/Session7.pdf) | [PowerPoint](./Session7/Session7.pptx)  
+<br/>
+
+![](media/Ex11.gif)
 
 <br/>
 
