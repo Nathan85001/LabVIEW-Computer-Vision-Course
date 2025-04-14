@@ -108,7 +108,7 @@ Description: This session explain Fast Fourier Transform as implementation for b
 Description: This session focuses on debugging camera stream issues using a wired camera and provides a practical solution for integrating wireless IP cameras—such as the TP-Link Tapo C100—into LabVIEW. Since LabVIEW only supports direct image acquisition from wired cameras, we demonstrate how to use virtual camera tools to redirect wireless streams into LabVIEW, enabling real-time vision for robotics and autonomous systems.
 
 NOTE: Download the presentation version, because it has explaination with videos whichh is necescary for understanding.  
-*Slides:* [PDF](./Session7/Session7.pdf) | [PowerPoint](./Session7/Session7.pptx)  
+*Slides:* [PDF](./Session7/Session7.pdf) | [PowerPoint](./Session7/Session7.rar)  
 <br/>
 
 ![](media/Ex11.gif)
