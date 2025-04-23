@@ -13,9 +13,8 @@ Note: Powerpoint shows are preferred, because there are animations help for unde
 - [Session 5: Morphological Operations](#Session-5-morphological-operations)
 - [Session 6: Implementing Techniques](#Session-6-implementing-techniques)
 - [Session 7: Real-time Camera](#Session-7-real-time-camera)
+- [Final Project: Real-Time Object Tracking](#final-project-real-time-object-tracking)
 
-
-<!-- - [Final Project: Real-Time Object Tracking](#final-project-real-time-object-tracking) -->
 
 ## Session 1: Image and Geometeric Transformation
 [Link to Session 1 Folder](./Session1)  
@@ -33,8 +32,6 @@ Description: This Session covers some geometeric transformations for images.
 <br/>
 
 
-<!-- *Video:* [Watch Video](./media/Ex1 Image Import.mp4)
-*Video:* [Watch Video](./media/Ex2 Geometeric Transform.mp4) -->
 
 
 ## Session 2: Image Format
@@ -116,9 +113,22 @@ NOTE: Download the presentation version, because it has explaination with videos
 <br/>
 
 
-<!-- 
+
 ## Final Project: Real-Time Object Tracking
 [Link to Final Project Folder](./FinalProject)  
-Description: Apply everything you have learned in a real-time object tracking project.  
-*Slides:* [PDF](./FinalProject/slides.pdf) | [PowerPoint](./FinalProject/slides.pptx)  
-*Video:* [Watch Video](./FinalProject/video.mp4) -->
+Description: Apply everything you have learned in a real-time object tracking project and enhanced version for better approach.  
+*Slides:* [PDF](./FinalProject/Session8.pdf) | [PowerPoint](./FinalProject/Session8.pptx)  
+
+<br/>
+
+![](media/Ex12.gif)
+
+<br/>
+
+![](media/Ex13.gif)
+
+<br/>
+
+![](media/Ex14.gif)
+
+<br/>
