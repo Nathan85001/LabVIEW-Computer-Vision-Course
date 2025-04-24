@@ -2,7 +2,8 @@
 
 Welcome to the LabVIEW Computer Vision Course repository! This repository contains all the resources and materials for the course, including slides, examples, and a final project.
 
-Note: Powerpoint shows are preferred, because there are animations help for understanding.
+Notes:  1) Powerpoint shows are preferred, because there are animations help for understanding.
+        2) This course examples use LabVIEW Q3, but you can find LabVIEW 20.0 version in the second branch.
 
 ## Table of Contents
 
